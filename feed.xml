@@ -1,4 +1,86 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><author>Javad Rajabzadeh</author><title>صفحه اصلی on زبان گو فارسی</title><link>https://book.gofarsi.ir/</link><description>Recent content in صفحه اصلی on زبان گو فارسی</description><generator>Hugo -- gohugo.io</generator><language>fa-IR</language><managingEditor>ja7ad@live.com (Javad Rajabzadeh)</managingEditor><webMaster>ja7ad@live.com (Javad Rajabzadeh)</webMaster><copyright>2023 GoFarsi All rights reserved</copyright><atom:link href="https://book.gofarsi.ir/feed.xml" rel="self" type="application/rss+xml"/><item><author>Javad Rajabzadeh</author><title>پیشگفتار</title><link>https://book.gofarsi.ir/preface/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/preface/</guid><description>&lt;ul>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><author>Javad Rajabzadeh</author><title>صفحه اصلی on زبان گو فارسی</title><link>https://book.gofarsi.ir/</link><description>Recent content in صفحه اصلی on زبان گو فارسی</description><generator>Hugo -- gohugo.io</generator><language>fa</language><managingEditor>ja7ad@live.com (Javad Rajabzadeh)</managingEditor><webMaster>ja7ad@live.com (Javad Rajabzadeh)</webMaster><copyright>2023 GoFarsi All rights reserved</copyright><atom:link href="https://book.gofarsi.ir/feed.xml" rel="self" type="application/rss+xml"/><item><author>Javad Rajabzadeh</author><title>اسپانسرهای کتاب</title><link>https://book.gofarsi.ir/sponsors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/sponsors/</guid><description>&lt;style>
+html {
+box-sizing: border-box;
+}
+*, *:before, *:after {
+box-sizing: inherit;
+}
+.column {
+float: left;
+width: 33.3%;
+margin-bottom: 16px;
+padding: 0 8px;
+}
+@media screen and (max-width: 650px) {
+.column {
+width: 100%;
+display: block;
+}
+}
+.card {
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.container {
+padding: 0 16px;
+}
+.container::after, .row::after {
+content: "";
+clear: both;
+display: table;
+}
+.title {
+color: grey;
+}
+.button {
+border: none;
+outline: 0;
+display: inline-block;
+padding: 8px;
+color: white;
+background-color: #29beb0;
+text-align: center;
+cursor: pointer;
+width: 100%;
+}
+.button:hover {
+background-color: #21998E;
+}
+&lt;/style>
+&lt;div class="row">
+&lt;div class="column">
+&lt;div class="card">
+&lt;img src="https://fing.ir/images/icon.png" alt="FingCloud" style="width:100%">
+&lt;div class="container">
+&lt;h2>سرویس ابری فینگ&lt;/h2>
+&lt;p class="title">سکوی ابری&lt;/p>
+&lt;p>با سکوی ابری فینگ شما روی کد تمرکز کنید، فینگ آن را اجرا می‌کند.&lt;/p>
+&lt;p>&lt;button class="button" onclick="window.open('https://fing.ir/','_blank')" rel="nofollow">مشاهده سرویس&lt;/button>&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="column">
+&lt;div class="card">
+&lt;img src="../assets/img/sponsors/hamravesh.jpg" alt="hamravesh" style="width:100%">
+&lt;div class="container">
+&lt;h2>سرویس ابری دارکوب&lt;/h2>
+&lt;p class="title">سکوی ابری&lt;/p>
+&lt;p>با پلتفرم ابری دارکوب، سریع و آسان از مزایا و امکانات کوبرنتیز استفاده کنید.&lt;/p>
+&lt;p>&lt;button class="button" onclick="window.open('https://hamravesh.com/','_blank')" rel="nofollow">مشاهده سرویس&lt;/button>&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="column">
+&lt;div class="card">
+&lt;img src="../assets/img/sponsors/sponsor.png" alt="FingCloud" style="width:100%">
+&lt;div class="container">
+&lt;h2>اسپانسر کتاب شوید&lt;/h2>
+&lt;p class="title">اسپانسر&lt;/p>
+&lt;p>شما هم می توانید با ارایه خدمات خود اسپانسر کتاب شوید.&lt;/p>
+&lt;p>&lt;button class="button" onclick="window.open('mailto:ja7ad@live.com')">درخواست اسپانسر شدن&lt;/button>&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><author>Javad Rajabzadeh</author><title>پیشگفتار</title><link>https://book.gofarsi.ir/preface/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/preface/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>چرا از گو استفاده می‌کنیم؟&lt;/p>
 &lt;p>وقتی در نوامبر سال ۲۰۰۹ رابرت گریسیمر، راب پایک و کن تامپسون برای اولین‌بار گو را بصورت عمومی انتشار دادند، خودشان مطمئن نبودند که به‌صورت گسترده مورد استفاده قرار می‌گیرد یا خیر. تا به تاریخ انتشار این مطلب، مشخص شده،‌گو بسیار فراگیرتر و رشد آن در صنعت وسیع‌تر از چیزی بوده‌است که ایجادکنندگان آن حدس می‌زدند.
@@ -26,7 +108,7 @@
 &lt;/ul>
 &lt;/li>
 &lt;li>
-&lt;p>انواع منابع موجود جهت کسب اطلاعات و مقایسه‌ی آنها.&lt;/p>
+&lt;p>انواع منابع موجود جهت کسب اطلاعات و مقایسه‌ی آن‌ها.&lt;/p>
 &lt;ul>
 &lt;li>منابع مکتوب.
 &lt;ul>
@@ -45,9 +127,9 @@
 &lt;li>
 &lt;p>چرا به زبان فارسی می‌نویسیم.
 دوستان و همکاران بسیاری هستند،‌که این سوال را مطرح می‌کنند که وقتی نیاز به دانش زبان انگلیسی، برای کسب مهارت در این تخصص، یک «باید» محسوب می‌شود، چرا مطلب فارسی؟
-جواب این سوال ساده‌تر از پیجیدگی‌هایی هست که بنظر می‌رسد:
+جواب این سوال ساده‌تر از پیچیدگی‌هایی هست که بنظر می‌رسد:
 − ایجاد و رونق جامعه تخصصی فارسی‌زبان توسط موضوع «کتاب»
-− ایجاد فضایی جهت ایحاد پرسش و پاسخ فارسی‌زبان‌ها
+− ایجاد فضایی جهت ایجاد پرسش و پاسخ فارسی‌زبان‌ها
 − ارائه یک ترجمه فارسی، از منابع اصلی تخصصی، با امکان مقایسه برداشت افراد مختلف از زبان تخصصی
 − سرعت دادن به یادگیری، حداقل در مفاهیم ابتدایی
 − برای نوجوانان و افرادی که به‌هر دلیل، درحال‌حاضر تسلط کافی روی زبان انگلیسی ندارند و ارائه راهکار جهت تمرین و شروع یادگیری منابع روی زبان تخصصی&lt;/p>
@@ -58,12 +140,12 @@
 &lt;li>
 &lt;p>چگونه از جامعه تخصصی، می‌توان در آموزش،بهینه‌سازی و رشد دانش متقاضیان این تخصص استفاده کرد.
 یکی از وظایف هر استاد، تربیت «شاگرد» و توسعه دانش است. افراد تازه‌کار با دانش و تجربه پیشکسوتان، با سرعت و کیفیت بالاتر، تبدیل به متخصصین جدید خواهند شد. کیفیت جامعه متخصصین، امکان کنترل مصرف منابع و تولید ابزارهای مفید را تعیین خواهد کرد.
-کار تیمی، به فرهنگ «با هم کار کردن» نیازمند هست.&lt;/p>
+کار تیمی، به فرهنگ «با هم کار کردن» نیازمند است.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>چرخ را از نو نسازیم، تجربه‌ها را از نو «تجربه» نکنیم، آموزش ببینیم و آموزش بدهیم.
-با کمی دقت و تجربه، کاملاً بدیهی‌ست در مقام قیاس بین چند جامعه تخصصی همسان، برتری از آن کسانی‌ست که در انتقال دانش-تجربه دست‌و‌دل‌بازتر هستند. جامعه تخصصی با دانش و تجربه عمیق، نیازمند وجود «مبتدیان» با پتانسیل حداکثری است و این میسر نیست مگر با جریان ساده و پایدار آموزش &amp;hellip;
-دانش امروز، در هر رشته و هر سطح برآیند «انتقال» پیشینیان ما هست. بجای غرور ناشی از آن می‌توان از انتقال با احترام آن به دیگران لذت برد.&lt;/p>
+با کمی دقت و تجربه، کاملاً بدیهی‌ست در مقام قیاس بین چند جامعه تخصصی همسان، برتری از آن کسانی‌ست که در انتقال دانش-تجربه دست‌و‌دل‌بازتر هستند. جامعه تخصصی با دانش و تجربه عمیق، نیازمند وجود «مبتدیان» با پتانسیل حداکثری است و این میسر نیست مگر با جریان ساده و پایدار آموزش.
+دانش امروز، در هر رشته و هر سطح برآیند «انتقال» پیشینیان ما است. به جای غرور ناشی از آن می‌توان از انتقال آن به دیگران لذت برد.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>«کلمات» قدرت دارند. به درک و استفاده از کلمات احترام بگذاریم. در جامعه تخصصی حتی چند‌برابر !!!
@@ -71,60 +153,65 @@
 &lt;/li>
 &lt;/ul></description></item><item><author>Javad Rajabzadeh</author><title>تاریخچه</title><link>https://book.gofarsi.ir/history/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/history/</guid><description>&lt;p>زبان گو (Go) در سال ۲۰۰۷ (به شمسی: ۱۳۸۶) توسط «شرکت گوگل» با هدف افزایش بهره‌وری برنامه‌نویسی در محیط چندهسته‌ای، رایانه‌های شبکه‌ای و کدبیس‌های بزرگ طراحی شد [&lt;a href="https://fa.wikipedia.org/wiki/%DA%AF%D9%88_%28%D8%B2%D8%A8%D8%A7%D9%86_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%86%D9%88%DB%8C%D8%B3%DB%8C%29">به نقل از ویکی پدیا&lt;/a>] و سپس به عنوان یک زبان کامپایلری و تایپ استاتیک در نوامبر سال ۲۰۰۹ بصورت عمومی با هدف &lt;span class="tooltip" data-tooltip="efficient compilation" ontouchend="toggleTooltip(this)">کامپایل کارآمد&lt;/span>
 ، &lt;span class="tooltip" data-tooltip="efficient execution" ontouchend="toggleTooltip(this)">اجرای کارآمد&lt;/span>
-و&lt;span class="tooltip" data-tooltip="ease of programming" ontouchend="toggleTooltip(this)">سهولت برنامه نویسی&lt;/span>
-معرفی شد که توسط شرکت گوگل توسعه داده شده است و بسیاری از اعضای تیم طراحی و توسعه زبان گو [&lt;a href="https://en.wikipedia.org/wiki/Ken_Thompson">Ken Thompson&lt;/a>, &lt;a href="https://en.wikipedia.org/wiki/Rob_Pike">Rob Pike&lt;/a>, &lt;a href="https://en.wikipedia.org/wiki/Robert_Griesemer">Robert Griesemer&lt;/a>] سال ها تجربه در زمینه تحقیق و توسعه زبان برنامه نویسی دارند.&lt;/p>
-&lt;p>زبان گو دارای یک سری ویژگی های منحصر به فرد می باشد و برخی از ویژگی هایش از سایر زبان ها الهام گرفته شده است :&lt;/p>
+و&lt;span class="tooltip" data-tooltip="ease of programming" ontouchend="toggleTooltip(this)">سهولت برنامه‌نویسی&lt;/span>
+. بسیاری از اعضای تیم طراحی و توسعه زبان گو [&lt;a href="https://en.wikipedia.org/wiki/Ken_Thompson">Ken Thompson&lt;/a>, &lt;a href="https://en.wikipedia.org/wiki/Rob_Pike">Rob Pike&lt;/a>, &lt;a href="https://en.wikipedia.org/wiki/Robert_Griesemer">Robert Griesemer&lt;/a>] سال‌ها تجربه در زمینه تحقیق و توسعه زبان برنامه‌نویسی دارند.&lt;/p>
+&lt;p>تاریخچه زبان گولنگ به سال ۲۰۰۷ میلادی برمیگردد.وقتی که سه برنامه‌نویس تصمیم گرفتند یک زبان برنامه‌نویسی جدید با ترکیبی از ویژگی‌های مختلف را توسعه دهند. هدف آنها این بود که که زبانی سریع، ساده، قابل استفاده و موثر برای توسعه نرم‌افزارهای همزمان و مقیاس‌پذیر بسازند.&lt;/p>
+&lt;p>گولنگ از زبان‌هایی چون pascal، c و oberon الهام گرفته است. هدف توسعه دهندگان گولنگ ساده‌تر کردن فرایند طراحی و ساخت نرم افزارهای مقایس‌پذیر بوده.
+آن‌ها در طراحی گولنگ تلاش کردند تا عملکرد زبان را بهبود بخشند و یک سینتکس ساده و خوانا ارائه دهند.&lt;/p>
+&lt;p>از آن زمان تا به امروز، گولنگ رشد و پیشرفت چشمگیری کرده است و استفاده از آن در صنعت نرم‌افزار روز به روز بیشتر می‌شود. شرکت‌های بزرگی مانند Google، Dropbox، YouTube و Docker از گولنگ به عنوان یکی از زبان‌های اصلی خود استفاده می‌کنند. همچنین جامعه برنامه‌نویسی گولنگ به طور فزاینده‌ای در حال رشد است و ابزارها و کتابخانه‌های زیادی با استقاده از گولنگ توسعه داده شده است.&lt;/p>
+&lt;p>زبان گو دارای یک سری ویژگی‌های منحصر به فرد می‌باشد و برخی از ویژگی‌هایش از سایر زبان‌ها الهام گرفته شده است :&lt;/p>
 &lt;ul>
-&lt;li>پشتیبانی از برنامه نویسی  &lt;span class="tooltip" data-tooltip="Concurrency" ontouchend="toggleTooltip(this)">همزمانی&lt;/span>
+&lt;li>پشتیبانی از برنامه‌نویسی  &lt;span class="tooltip" data-tooltip="Concurrency" ontouchend="toggleTooltip(this)">همزمانی&lt;/span>
 بصورت Built-in &lt;/li>
 &lt;li> &lt;span class="tooltip" data-tooltip="Goroutine" ontouchend="toggleTooltip(this)">گوروتین&lt;/span>
-ها امکان اجرای همزمانی توابع را فراهم می کند و همچنین گوروتین ها واقعا خیلی سبک هستند به طوری که شما می توانید هزاران گوروتین را همزمان در سخت افزارهای مدرن بدون هیچ مشکل عملکردی اجرا کنید.&lt;/li>
+‌ها امکان اجرای همزمانی توابع را فراهم می‌کند و همچنین گوروتین‌ها واقعا خیلی سبک هستند به طوری که شما می‌توانید هزاران گوروتین را همزمان در سخت افزارهای مدرن بدون هیچ مشکل عملکردی اجرا کنید.&lt;/li>
 &lt;li>&lt;span class="tooltip" data-tooltip="Channel" ontouchend="toggleTooltip(this)">کانال&lt;/span>
-ها برپایه مدل CSP می باشد که امکان همگام سازی داده ها بین گوروتین ها را فراهم می کند.&lt;/li>
-&lt;li>پشتیبانی از تایپ های map و slice&lt;/li>
+‌ها برپایه مدل CSP می‌باشد که امکان همگام سازی داده‌ها بین گوروتین‌ها را فراهم می‌کند.&lt;/li>
+&lt;li>پشتیبانی از تایپ‌های map و slice&lt;/li>
 &lt;li>امکان پیاده سازی &lt;span class="tooltip" data-tooltip="Polymorphism" ontouchend="toggleTooltip(this)">پلی مورفیسم&lt;/span>
 با استفاده از &lt;span class="tooltip" data-tooltip="Interface" ontouchend="toggleTooltip(this)">اینترفیس&lt;/span>
-ها&lt;/li>
+‌ها&lt;/li>
 &lt;li>پوینترها&lt;/li>
 &lt;li>&lt;span class="tooltip" data-tooltip="Closures" ontouchend="toggleTooltip(this)">کلوژر&lt;/span>
 توابع (یک تابع معمولی که داخل یک تابع دیگر به عنوان &lt;span class="tooltip" data-tooltip="return" ontouchend="toggleTooltip(this)">بازگشت&lt;/span>
-تعریف می شود)&lt;/li>
+تعریف می‌شود)&lt;/li>
 &lt;li>&lt;span class="tooltip" data-tooltip="Method" ontouchend="toggleTooltip(this)">متدها&lt;/span>
 &lt;/li>
 &lt;li>امکان defer برای تعویق فراخوانی یک تابع&lt;/li>
 &lt;li>قابلیت &lt;span class="tooltip" data-tooltip="Embedding" ontouchend="toggleTooltip(this)">جاسازی&lt;/span>
-تایپ ها&lt;/li>
+تایپ‌ها&lt;/li>
 &lt;li>ایمنی حافظه در زبان گو&lt;/li>
 &lt;li>قابلیت &lt;span class="tooltip" data-tooltip="Garbage Collector" ontouchend="toggleTooltip(this)">زباله جمع کن&lt;/span>
 خودکار&lt;/li>
-&lt;li>سازگاری کامل با انواع پلتفرم ها نظیر [linux, windows, mac, AIX, android, freeBSD] جهت توسعه و کامپایل&lt;/li>
-&lt;li>امکان Cross-compile با این امکان می توانید در هر پلتفرمی برای سایر پلتفرم ها کامپایل کنید&lt;/li>
+&lt;li>سازگاری کامل با انواع پلتفرم‌ها نظیر [linux, windows, mac, AIX, android, freeBSD] جهت توسعه و کامپایل&lt;/li>
+&lt;li>امکان Cross-compile با این امکان می‌توانید در هر پلتفرمی برای سایر پلتفرم‌ها کامپایل کنید&lt;/li>
 &lt;li>پشتیبانی از &lt;span class="tooltip" data-tooltip="Generics" ontouchend="toggleTooltip(this)">جنریک&lt;/span>
 یا تایپ پارامتر (از نسخه ۱.۱۸)&lt;/li>
 &lt;li>تست نویسی آسان&lt;/li>
 &lt;li>&lt;span class="tooltip" data-tooltip="Interface" ontouchend="toggleTooltip(this)">اینترفیس&lt;/span>
 و &lt;span class="tooltip" data-tooltip="Reflection" ontouchend="toggleTooltip(this)">رفلکشن&lt;/span>
 &lt;/li>
-&lt;li>زبان گو مثل سایر زبان ها نظیر c, cpp یا java نیاز به نقطه ویرگول (Semicolons) ندارد و به نسبت زبان هایی که معرفی کردیم پرانتز کمتری استفاده می کند و همچنین ظاهر سینتکس گو خیلی خواناتر و راحتر می باشد.&lt;/li>
+&lt;li>زبان گو برخلاف زبان‌هایی نظیر c, cpp یا java نیاز به نقطه ویرگول (Semicolons) ندارد و به نسبت زبان‌هایی که معرفی کردیم پرانتز کمتری استفاده می‌کند و همچنین ظاهر سینتکس گو خیلی خواناتر و راحت‌تر می‌باشد.&lt;/li>
 &lt;/ul>
-&lt;p>علاوه بر ویژگی های که در بالا معرفی کردیم یک سری نکات برجسته در خصوص زبان گو وجود دارد که به شرح زیر می باشند:&lt;/p>
+&lt;p>علاوه بر ویژگی‌هایی که در بالا معرفی کردیم یک سری نکات برجسته در خصوص زبان گو وجود دارد که به شرح زیر می‌باشند:&lt;/p>
 &lt;ul>
 &lt;li>
-&lt;p>سینتکس زبان گو به گونه ای طراحی شده که خیلی ساده و تمیز می باشد و این باعث می شود خیلی سریع زبان گو را یاد بگیرید و از همه مهم تر توسعه پروژه های مقیاس پذیر &lt;span class="tooltip" data-tooltip="Scale up" ontouchend="toggleTooltip(this)">مقیاس پذیر&lt;/span>
-با زبان گو به دلیل سادگی و آشکار بودن مفاهیم خیلی سریعتر صورت میگیرد.&lt;/p>
+&lt;p>سینتکس این زبان به گونه‌ای ساده و تمیز طراحی شده که فرآیند یادگیری آن را آسان‌تر می‌کند و از همه مهم‌تر توسعه پروژه‌های &lt;span class="tooltip" data-tooltip="Scale up" ontouchend="toggleTooltip(this)">مقیاس‌پذیر&lt;/span>
+با زبان گو به دلیل سادگی و آشکار بودن مفاهیم خیلی سریع‌تر صورت می‌گیرد.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>زبان گو دارای کلی &lt;span class="tooltip" data-tooltip="Standard packages" ontouchend="toggleTooltip(this)">پکیج های استاندارد&lt;/span>
-و کاربردی جهت توسعه می باشد که همه این پکیج ها در انواع پلتفرم ها جهت توسعه قابل استفاده است.&lt;/p>
+&lt;p>زبان گو دارای تعداد زیادی &lt;span class="tooltip" data-tooltip="Standard packages" ontouchend="toggleTooltip(this)">پکیج‌های استاندارد&lt;/span>
+و کاربردی جهت توسعه می‌باشد که همه این پکیج‌ها در انواع پلتفرم‌ها جهت توسعه قابل استفاده است.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>زبان گو دارای یک جامعه بزرگ از توسعه دهندگان و انجمن های فعال می باشد که خیلی سریع می توانید به پاسخ سوالات خود برسید.&lt;/p>
+&lt;p>زبان گو دارای یک جامعه بزرگ از توسعه دهندگان و انجمن‌های فعال می‌باشد که خیلی سریع می‌توانید به پاسخ سوالات خود برسید.&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;blockquote class="book-hint info">
-برنامه نویس های زبان گو را &lt;span class="tooltip" data-tooltip="Gopher" ontouchend="toggleTooltip(this)">گوفر&lt;/span>
-صدا میزنند.
-&lt;/blockquote></description></item><item><author>Javad Rajabzadeh</author><title>آموزش نصب</title><link>https://book.gofarsi.ir/installation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/installation/</guid><description>&lt;p>جهت نصب زبان گو برروی سیستم عامل مورد نظر خود در ابتدا باید نسخه مناسب با پلت فرم خود را &lt;a href="https://go.dev/dl/">دانلود&lt;/a> کنید.&lt;/p>
+برنامه نویس‌های زبان گو را &lt;span class="tooltip" data-tooltip="Gopher" ontouchend="toggleTooltip(this)">گوفر&lt;/span>
+صدا می‌زنند.
+گوفر نام یک نوع موش و همچنین mascot گولنگ است.
+&lt;/blockquote></description></item><item><author>Javad Rajabzadeh</author><title>آموزش نصب</title><link>https://book.gofarsi.ir/installation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/installation/</guid><description>&lt;p>جهت نصب زبان گو بر روی سیستم عامل مورد نظر خود در ابتدا باید نسخه مناسب با پلت‌فرم خود را &lt;a href="https://go.dev/dl/">دانلود&lt;/a> کنید.&lt;/p>
 &lt;p>&lt;img src="../assets/img/content/installation/1.png" alt="Featured downloads golang" />&lt;/p>
 &lt;div class="book-tabs">&lt;input type="radio" class="toggle" name="tabs-uniqueid" id="tabs-uniqueid-0" checked="checked" />
 &lt;label for="tabs-uniqueid-0">لینوکس&lt;/label>
@@ -141,10 +228,10 @@
 &lt;/ol>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="hl-2-1">&lt;a style="outline:none;text-decoration:none;color:inherit" href="#hl-2-1">1&lt;/a>&lt;/span>&lt;span>&lt;span style="color:#8be9fd;font-style:italic">export&lt;/span> &lt;span style="color:#8be9fd;font-style:italic">PATH&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">$PATH&lt;/span>:/usr/local/go/bin
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;blockquote class="book-hint info">
-بهتر است برای اینکه هر بار ترمینال را باز میکنید و فایل go توسط shell شناخته شود دستور فوق را به فایل &lt;code>home/{user}/.profile/&lt;/code> اضافه کنید.
+بهتر است برای اینکه هر بار ترمینال را باز می‌کنید و فایل go توسط shell شناخته شود دستور فوق را به فایل &lt;code>home/{user}/.profile/&lt;/code> اضافه کنید.
 &lt;/blockquote>
 &lt;ol start="4">
-&lt;li>جهت اطمینان از اینکه زبان گو بدرستی برروی سیستم عامل شما نصب شده است دستور زیر را داخل ترمینال بزنید.&lt;/li>
+&lt;li>جهت اطمینان از اینکه زبان گو بدرستی بر روی سیستم عامل شما نصب شده است دستور زیر را داخل ترمینال بزنید.&lt;/li>
 &lt;/ol>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="hl-3-1">&lt;a style="outline:none;text-decoration:none;color:inherit" href="#hl-3-1">1&lt;/a>&lt;/span>&lt;span>$ go version
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;input type="radio" class="toggle" name="tabs-uniqueid" id="tabs-uniqueid-1" />
@@ -157,7 +244,7 @@
 &lt;li>در &lt;a href="https://go.dev/dl/">اینجا&lt;/a> نسخه مرتبط با ویندوز خود را دانلود کنید.&lt;/li>
 &lt;li>سپس فایل &lt;strong>go1.xx.x.windows-{arch}.msi&lt;/strong> را اجرا کنید.&lt;/li>
 &lt;li>مراحل نصب را بصورت پیش فرض طی کنید تا زبان گو برروی ویندوز نصب شود.&lt;/li>
-&lt;li>پس از نصب جهت اطمینان از نصب بود زبان گو مراحل زیر را انجام دهید:
+&lt;li>پس از نصب، جهت اطمینان از نصب بودن زبان گو، مراحل زیر را انجام دهید:
 &lt;ul>
 &lt;li>وارد منو استارت شوید.&lt;/li>
 &lt;li>در منو استارت کلمه &lt;strong>cmd&lt;/strong> را جستجو کنید و سپس آن را اجرا کنید.&lt;/li>
@@ -181,7 +268,7 @@
 &lt;/ol>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="hl-2-1">&lt;a style="outline:none;text-decoration:none;color:inherit" href="#hl-2-1">1&lt;/a>&lt;/span>&lt;span>choco install golang
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ol start="3">
-&lt;li>جهت اطمینان از اینکه زبان گو بدرستی برروی سیستم عامل شما نصب شده است دستور زیر را داخل ترمینال بزنید.&lt;/li>
+&lt;li>جهت اطمینان از اینکه زبان گو بدرستی بر روی سیستم عامل شما نصب شده است دستور زیر را داخل ترمینال بزنید.&lt;/li>
 &lt;/ol>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="hl-3-1">&lt;a style="outline:none;text-decoration:none;color:inherit" href="#hl-3-1">1&lt;/a>&lt;/span>&lt;span>$ go version
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;blockquote class="book-hint info">
@@ -198,7 +285,7 @@
 &lt;li>سپس فایل &lt;strong>go1.xx.x.darwin-{arch}.pkg&lt;/strong> را اجرا کنید.&lt;/li>
 &lt;li>مراحل نصب را بصورت پیش فرض طی کنید تا زبان گو برروی مکینتاش نصب شود.&lt;/li>
 &lt;li>پس از نصب اگر ترمینال باز بود آن را کامل ببنید تا تغییرات صورت گیرد.&lt;/li>
-&lt;li>جهت اطمینان از اینکه زبان گو بدرستی برروی سیستم عامل شما نصب شده است دستور زیر را داخل ترمینال بزنید.&lt;/li>
+&lt;li>جهت اطمینان از اینکه زبان گو بدرستی بر روی سیستم عامل شما نصب شده است دستور زیر را داخل ترمینال بزنید.&lt;/li>
 &lt;/ol>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="hl-0-1">&lt;a style="outline:none;text-decoration:none;color:inherit" href="#hl-0-1">1&lt;/a>&lt;/span>&lt;span>$ go version
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="روش-دوم">
@@ -215,7 +302,7 @@
 &lt;/ol>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="hl-2-1">&lt;a style="outline:none;text-decoration:none;color:inherit" href="#hl-2-1">1&lt;/a>&lt;/span>&lt;span>$ brew update &lt;span style="color:#ff79c6">&amp;amp;&amp;amp;&lt;/span> brew install golang
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ol start="3">
-&lt;li>جهت اطمینان از اینکه زبان گو بدرستی برروی سیستم عامل شما نصب شده است دستور زیر را داخل ترمینال بزنید.&lt;/li>
+&lt;li>جهت اطمینان از اینکه زبان گو بدرستی بر روی سیستم عامل شما نصب شده است دستور زیر را داخل ترمینال بزنید.&lt;/li>
 &lt;/ol>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="hl-3-1">&lt;a style="outline:none;text-decoration:none;color:inherit" href="#hl-3-1">1&lt;/a>&lt;/span>&lt;span>$ go version
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/div>&lt;/div></description></item><item><author>Javad Rajabzadeh</author><title>ابزارها, دستورات گو و معرفی IDE</title><link>https://book.gofarsi.ir/toolchain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/toolchain/</guid><description>&lt;p>پس از اینکه زبان گو را برروی سیستم خود نصب کردید از طریق &lt;span class="tooltip" data-tooltip="Terminal" ontouchend="toggleTooltip(this)">ترمینال&lt;/span>
@@ -301,7 +388,7 @@
 &lt;tr>
 &lt;td>env&lt;/td>
 &lt;td>با این دستور می‌توانید &lt;span class="tooltip" data-tooltip="environment variable" ontouchend="toggleTooltip(this)">متغیرهای محیطی&lt;/span>
-تنظیم شده زبان گو را ببینید و آنها را با دستور &lt;code>go env -w key=value&lt;/code> مقدار دهی کنید.&lt;/td>
+تنظیم شده زبان گو را ببینید و آن‌ها را با دستور &lt;code>go env -w key=value&lt;/code> مقداردهی کنید.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>fmt&lt;/td>
@@ -309,7 +396,7 @@
 &lt;/tr>
 &lt;tr>
 &lt;td>install&lt;/td>
-&lt;td>با استفاده از این دستور می‌توانید یکسری پکیج‌های را گرفته و کامپایل کنید.&lt;/td>
+&lt;td>با استفاده از این دستور می‌توانید یکسری پکیج‌ها را گرفته و کامپایل کنید.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>list&lt;/td>
@@ -317,7 +404,7 @@
 &lt;/tr>
 &lt;tr>
 &lt;td>generate&lt;/td>
-&lt;td>با این دستور می‌توانید از قابلیتGenerator زبان گو استفاده کنید و فایل generate کنید.&lt;/td>
+&lt;td>با این دستور می‌توانید از قابلیت Generator زبان گو استفاده کنید و فایل generate کنید.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>mod&lt;/td>
@@ -325,7 +412,7 @@
 &lt;/tr>
 &lt;tr>
 &lt;td>get&lt;/td>
-&lt;td>با این دستور می‌توانید پکیجی را دانلود یا بروز رسانی کنید و همچنین برای استفاده از این دستور نیاز به &lt;code>git&lt;/code> دارید که نصب باشد.&lt;/td>
+&lt;td>با این دستور می‌توانید پکیجی را دانلود یا بروزرسانی کنید و همچنین برای استفاده از این دستور نیاز به &lt;code>git&lt;/code> دارید که نصب باشد.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>work&lt;/td>
@@ -363,28 +450,54 @@
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="hl-1-7">&lt;a style="outline:none;text-decoration:none;color:inherit" href="#hl-1-7">7&lt;/a>&lt;/span>&lt;span>}
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="hl-2-1">&lt;a style="outline:none;text-decoration:none;color:inherit" href="#hl-2-1">1&lt;/a>&lt;/span>&lt;span>$ go run main.go
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f" id="hl-2-2">&lt;a style="outline:none;text-decoration:none;color:inherit" href="#hl-2-2">2&lt;/a>&lt;/span>&lt;span>Hello world!!!
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>در کد فوق ما یکسری &lt;span class="tooltip" data-tooltip="keyword" ontouchend="toggleTooltip(this)">کلید واژه&lt;/span>
-نظیر package , import , func استفاده کردیم که در بخش &lt;a href="https://book.gofarsi.ir/chapter-1/go-built-in-keywords-identifiers/">1.2 کلید واژه و شناسه‌ها&lt;/a> با آنها آشنا می‌شوید.&lt;/p>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>در کد فوق، ما یکسری &lt;span class="tooltip" data-tooltip="keyword" ontouchend="toggleTooltip(this)">کلید واژه&lt;/span>
+نظیر package , import , func استفاده کردیم که در بخش &lt;a href="https://book.gofarsi.ir/chapter-1/go-built-in-keywords-identifiers/">1.2 کلید واژه و شناسه‌ها&lt;/a> با آن‌ها آشنا می‌شوید.&lt;/p>
 &lt;h2 id="انواع-نرمافزارهای-محیط-توسعه-ide-و-ویرایشگر-کد-code-editor">
-انواع نرم‌افزارهای محیط توسعه (IDE) و ویرایش‌گر کد (Code Editor)
+انواع نرم‌افزارهای محیط توسعه (IDE) و ویرایشگر کد (Code Editor)
 &lt;a class="anchor" href="#%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d9%86%d8%b1%d9%85%d8%a7%d9%81%d8%b2%d8%a7%d8%b1%d9%87%d8%a7%db%8c-%d9%85%d8%ad%db%8c%d8%b7-%d8%aa%d9%88%d8%b3%d8%b9%d9%87-ide-%d9%88-%d9%88%db%8c%d8%b1%d8%a7%db%8c%d8%b4%da%af%d8%b1-%da%a9%d8%af-code-editor">#&lt;/a>
 &lt;/h2>
 &lt;p>در زبان برنامه‌نویسی گو نیز مثل سایر زبان‌ها، می‌توان از ابزارهای کدنویسی مانند &lt;span class="tooltip" data-tooltip="IDE(s)" ontouchend="toggleTooltip(this)">نرم‌افزارهای محیط توسعه&lt;/span>
-و همچنین از &lt;span class="tooltip" data-tooltip="Code Editor(s)" ontouchend="toggleTooltip(this)">ویرایش‌گرهای کد&lt;/span>
+و همچنین از &lt;span class="tooltip" data-tooltip="Code Editor(s)" ontouchend="toggleTooltip(this)">ویرایشگرهای کد&lt;/span>
 استفاده کرد که محبوب‌ترین‌ها معرفی می‌شوند:&lt;/p>
 &lt;ol>
 &lt;li>نرم‌افزار &lt;a href="https://www.jetbrains.com/go/">Jetbrains Goland&lt;/a> اگر با سایر محصولات جت‌برینز آشنا باشید به‌راحتی می‌توانید از این &lt;span class="tooltip" data-tooltip="IDE" ontouchend="toggleTooltip(this)">نرم‌افزار محیط توسعه&lt;/span>
 استفاده کنید.&lt;/li>
-&lt;li>نرم‌افزار &lt;a href="https://code.visualstudio.com/">VsCode&lt;/a> تقریباً همه برنامه‌نویس‌ها با آن آشنا هستند. یک &lt;span class="tooltip" data-tooltip="Code Editor" ontouchend="toggleTooltip(this)">ویرایش‌گر کد&lt;/span>
-متن باز می‌باشد که بین برنامه‌نویس‌ها خیلی محبوب است و برای استفاده زبان گو در این نرم‌افزار می‌توان افزونه&lt;a href="https://code.visualstudio.com/docs/languages/go"> vscode-go&lt;/a> را نصب کنید.&lt;/li>
-&lt;li>نرم‌افزار &lt;a href="https://www.vim.org/">Vim&lt;/a> یک نرم‌افزار متن باز و معروف می‌باشد که داخل &lt;span class="tooltip" data-tooltip="Terminal" ontouchend="toggleTooltip(this)">ترمینال&lt;/span>
+&lt;li>نرم‌افزار &lt;a href="https://code.visualstudio.com/">VsCode&lt;/a> تقریباً همه برنامه‌نویس‌ها با آن آشنا هستند. یک &lt;span class="tooltip" data-tooltip="Code Editor" ontouchend="toggleTooltip(this)">ویرایشگر کد&lt;/span>
+متن‌باز می‌باشد که بین برنامه‌نویس‌ها خیلی محبوب است و برای استفاده زبان گو در این نرم‌افزار می‌توان افزونه&lt;a href="https://code.visualstudio.com/docs/languages/go"> vscode-go&lt;/a> را نصب کنید.&lt;/li>
+&lt;li>نرم‌افزار &lt;a href="https://www.vim.org/">Vim&lt;/a> یک نرم‌افزار متن‌باز و معروف می‌باشد که داخل &lt;span class="tooltip" data-tooltip="Terminal" ontouchend="toggleTooltip(this)">ترمینال&lt;/span>
 قابل استفاده است و از آن می‌توانید جهت توسعه با زبان گو استفاده کنید و البته نیازمند &lt;a href="https://github.com/fatih/vim-go">نصب پلاگین&lt;/a> می‌باشد.&lt;/li>
-&lt;/ol></description></item><item><author>Javad Rajabzadeh</author><title>نقشه یادگیری زبان گو</title><link>https://book.gofarsi.ir/roadmap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/roadmap/</guid><description>&lt;p>در زیر ما نقشه یادگیری زبان گو را براساس داده های سایت &lt;a href="https://roadmap.sh/">roadmap.sh&lt;/a> قرار دادیم که در ابتدا باید طبق نقشه یادگیری زبان گو شروع کنید و سپس برای افزایش دانش خود به نقشه یادگیری بک اند نگاهی بندازید.&lt;/p>
+&lt;/ol></description></item><item><author>Javad Rajabzadeh</author><title>نقشه یادگیری زبان گو</title><link>https://book.gofarsi.ir/roadmap/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/roadmap/</guid><description>&lt;p>نقشه یادگیری زیر &lt;a href="https://roadmap.sh/">roadmap.sh&lt;/a> به ترتیب مسیر توصیه شده ی یادگیری ابزارها و مفاهیم اولیه گو، سپس سمت سرور و در نهایت معماری نرم افزار را نشان می‌دهد.&lt;/p>
 &lt;p>&lt;img src="../assets/img/content/roadmap/go.jpg" alt="roadmap go" />
 &lt;img src="../assets/img/content/roadmap/backend.jpg" alt="roadmap backend" />
 &lt;img src="../assets/img/content/roadmap/software-design.jpg" alt="software design" />
 &lt;img src="../assets/img/content/roadmap/software-architect.jpg" alt="software architect" />&lt;/p></description></item><item><author>Javad Rajabzadeh</author><title>تغییرات نسخه های زبان گو</title><link>https://book.gofarsi.ir/changes-log/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/changes-log/</guid><description>&lt;p>&lt;img src="../../assets/img/content/changes/logo.png" alt="gopher" />&lt;/p>
 &lt;div class="timeline">
+&lt;div class="timeline">
+&lt;ul>
+&lt;li>
+&lt;span>2022-08-02&lt;/span>
+&lt;div class="content">
+&lt;h3>نسخه 1.21&lt;/h3>
+&lt;p>
+&lt;p>بزودی تکمیل می شود&lt;/p>
+&lt;/p>
+&lt;/div>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="timeline">
+&lt;ul>
+&lt;li>
+&lt;span>2022-08-02&lt;/span>
+&lt;div class="content">
+&lt;h3>نسخه 1.20&lt;/h3>
+&lt;p>
+&lt;p>بزودی تکمیل می شود&lt;/p>
+&lt;/p>
+&lt;/div>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
 &lt;div class="timeline">
 &lt;ul>
 &lt;li>
@@ -639,55 +752,241 @@
 &lt;div class="content">
 &lt;h3>نسخه 1&lt;/h3>
 &lt;p>
-&lt;p>بزودی تکمیل می شود&lt;/p>
+&lt;p>گو 1 یک نسخه اصلی از زبان برنامه‌نویسی Go است که در طولانی مدت پایدار خواهد بود. برای کسب اطلاعات بیشتر، به &lt;a href="https://go.dev/doc/go1.html">یادداشت‌های انتشار&lt;/a> Go 1 مراجعه کنید.&lt;/p>
+&lt;p>هدف این است که برنامه‌های نوشته شده برای Go 1 بدون تغییر، در نسخه‌های آینده از Go 1 به درستی کامپایل و اجرا شوند. برای اطلاعات بیشتر درباره آینده Go 1، &lt;a href="https://go.dev/doc/go1compat.html">مستندات سازگاری&lt;/a> Go 1 را مطالعه کنید.&lt;/p>
 &lt;/p>
 &lt;/div>
 &lt;/li>
 &lt;/ul>
 &lt;/div>
-&lt;/div></description></item><item><author>Javad Rajabzadeh</author><title>فصل اول: آشنایی با مفاهیم گو</title><link>https://book.gofarsi.ir/chapter-1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-1/</guid><description>&lt;p>در فصل اول به مفاهیم پایه زبان برنامه‌نویسی گو بطور عمیق می‌پردازیم. این فصل شامل چندین بخش هست :&lt;/p>
+&lt;/div></description></item><item><author>Javad Rajabzadeh</author><title>سوالات مصاحبه</title><link>https://book.gofarsi.ir/interview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/interview/</guid><description>&lt;p>در این بخش ما یکسری سوالات مصاحبه به زبان فارسی و انگلیسی ارائه دادیم که برای یافتن ضعف‌ها کاربردی می‌باشد (&lt;a href="https://github.com/mrbardia72/Go-Interview-Questions-And-Answers">منبع سوالات&lt;/a>).&lt;/p>
+&lt;details >&lt;summary>۱: چه تایپ‌هایی مقدار zero آن‌ها nil است؟&lt;/summary>
+&lt;div class="markdown-inner">
 &lt;ul>
-&lt;li>1.1 ساختار کد گو&lt;/li>
-&lt;li>1.2 کلید واژه و شناسه‌ها&lt;/li>
-&lt;li>1.3 تایپ های پایه&lt;/li>
-&lt;li>1.4 عملگرها&lt;/li>
-&lt;li>1.5 متغیرها و constant&lt;/li>
-&lt;li>1.6 مقادیر صفر تایپ ها (zero values)&lt;/li>
-&lt;li>1.7 تابع (function)&lt;/li>
-&lt;li>1.8 آرایه و slice&lt;/li>
-&lt;li>1.9 حلقه ها (for)&lt;/li>
-&lt;li>1.10 نقشه map&lt;/li>
-&lt;li>1.11 شرط (if, switch)&lt;/li>
-&lt;li>1.12 اضافه کردن پکیج در کد (package)&lt;/li>
-&lt;li>1.13 defer, panic, recovery&lt;/li>
-&lt;li>1.14 لیست تایپ ها و توابع Builtin&lt;/li>
-&lt;li>1.15 قالب بندی رشته ها&lt;/li>
-&lt;/ul></description></item><item><author>Javad Rajabzadeh</author><title>فصل دوم: مکانیزم های زبان</title><link>https://book.gofarsi.ir/chapter-2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-2/</guid><description>&lt;p>در این فصل به مکانزیم های زبان گو میپردازیم و برخی از اصطلاحات زبان گو را آموزش می دهیم.&lt;/p>
+&lt;li>interfaces&lt;/li>
+&lt;li>slices&lt;/li>
+&lt;li>channels&lt;/li>
+&lt;li>maps&lt;/li>
+&lt;li>pointers&lt;/li>
+&lt;li>functions&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/details>
+&lt;details >&lt;summary>۲: تایپ‌های نوع Reference؟&lt;/summary>
+&lt;div class="markdown-inner">
 &lt;ul>
-&lt;li>2.1 در خصوص &lt;span class="tooltip" data-tooltip="pointer" ontouchend="toggleTooltip(this)">اشاره گر&lt;/span>
-آموزش خواهیم داد.&lt;/li>
-&lt;li>2.2 به مهم ترین تایپ در زبان گو &lt;span class="tooltip" data-tooltip="struct" ontouchend="toggleTooltip(this)">ساختار&lt;/span>
-می پردازیم و آموزش می دهیم چطور با استفاده از ساختار دیتامدل های پروژه های خود را پیاده سازی کنید.&lt;/li>
-&lt;li>2.3 به بحث متدهای می پردازیم که چطور این نوع توابع را پیاده سازی کنید.&lt;/li>
-&lt;li>2.4 در خصوص اینترفیس در زبان گو توضیح می دهیم دقیقا چی هستند و چطور میشه ازش استفاده کرد.&lt;/li>
-&lt;li>2.5 به &lt;span class="tooltip" data-tooltip="embedding" ontouchend="toggleTooltip(this)">جاسازی&lt;/span>
-ساختار و اینترفیس می پردازیم.&lt;/li>
-&lt;li>2.6 در خصوص مدیریت خطاها در زبان گو می پردازیم که چه ویژگی هایی دارد.&lt;/li>
-&lt;li>2.7 تفاوت castin با conversion را آموزش می دهیم.&lt;/li>
+&lt;li>Pointers&lt;/li>
+&lt;li>slices&lt;/li>
+&lt;li>maps&lt;/li>
+&lt;li>functions&lt;/li>
+&lt;li>channels&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/details>
+&lt;details >&lt;summary>۳: تایپ‌های نوع Aggregate؟&lt;/summary>
+&lt;div class="markdown-inner">
+&lt;ul>
+&lt;li>Array&lt;/li>
+&lt;li>structs&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/details>
+&lt;details >&lt;summary>۴: چه وقت باید از پوینتر استفاده کنیم؟&lt;/summary>
+&lt;div class="markdown-inner">
+&lt;p>&lt;strong>1- تابعی که یکی از پارامترهای خود را تغییر می‌دهد&lt;/strong>&lt;br>
+-وقتی تابعی را فراخوانی می‌کنیم که یک پوینتر را به عنوان پارامتر می‌گیرد، انتظار داریم که متغیر ما تغییر داده شود. اگر شما متغیر را در تابع خود تغییر نمی‌دهید، پس احتمالا نباید از پوینتر استفاده کنید.&lt;/p>
+&lt;p>&lt;strong>2- عملکرد بهتر&lt;/strong>&lt;br>
+-اگر رشته‌ای داشته باشید که شامل یک رمان کامل در حافظه باشد، کپی کردن این متغیر هر بار که به یک تابع جدید ارسال می‌شود، کاری بسیار گران است. ممکن است ارزشمند باشد که به جای این کار یک پوینتر را ارسال کنید، که باعث صرفه‌جویی در پردازنده و حافظه می‌شود. با این حال انجام این کار به قیمت خوانا بودن است، بنابراین فقط در صورت لزوم این بهینه‌سازی را انجام دهید.&lt;/p>
+&lt;p>&lt;strong>3- به گزینه nil نیاز دارید&lt;/strong>&lt;br>
+-گاهی اوقات یک تابع باید بداند که مقدار یک چیزی چیست، همچنین باید وجود یا عدم وجود آن را بداند. معمولا هنگام خواندن JSON از این استفاده می‌کنیم تا بدانیم فیلدی وجود دارد یا خیر.&lt;/p>
+&lt;/div>
+&lt;/details>
+&lt;details >&lt;summary>۵: زبان گولنگ از موارد زیر پشتیبانی نمی‌کند؟&lt;/summary>
+&lt;div class="markdown-inner">
+&lt;ul>
+&lt;li>type inheritance&lt;/li>
+&lt;li>operator overloading&lt;/li>
+&lt;li>method overloading&lt;/li>
+&lt;li>pointer arithmetic&lt;/li>
+&lt;li>struct type in consts&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/details>
+&lt;details >&lt;summary>۶: چه موقعی از channel و چه موقعی از mutex استفاده میشه برای گوروتین‌ها؟(بحث ارتباط)؟&lt;/summary>
+&lt;div class="markdown-inner">
+معمولاً در مواقعی که Goroutines نیاز به برقراری ارتباط با یکدیگر دارند از channels استفاده کنید و درصورتی که فقط یک Goroutine دارید و باید به بخش مهم کد دسترسی داشته باشد از Mutexes استفاده کنید.
+&lt;/div>
+&lt;/details>
+&lt;details >&lt;summary>۷: چرا کپی کردن pointer کندتر از کپی کردن مقدار است؟&lt;/summary>
+&lt;div class="markdown-inner">
+&lt;ul>
+&lt;li>برای ارسال مقادیر کوچیکی که به مقدارشون فقط نیاز داریم از پوینتر استفاده نکنیم.&lt;/li>
+&lt;li>توی متغیرهای کوچیک (کمتر از ۳۲کیلوبایت) کپی کردن یک پوینتر تقریبا به اندازه کپی کردن مقدار اون متغیر هزینه داره پس از این جهت سودی نمی‌بریم.&lt;/li>
+&lt;li>کامپایلر چک‌هایی رو تولید می‌کنه که موقع ران‌تایم زمان dereferencing پوینتر اجرا میشن.&lt;/li>
+&lt;li>پوینترها اکثرا توی Heap ذخیره میشن.&lt;/li>
+&lt;li>برای این کار از ابزار های Go استفاده می‌کنیم ( go build -gcflags=&amp;quot;-m&amp;quot; main.go ).&lt;/li>
+&lt;li>اما اگر به صورت مقداری برگردونیم در stack ذخیره میشه.&lt;/li>
+&lt;li>همونطوری که می‌دونیم ذخیره در stack بسیار بهینه‌تر است.&lt;/li>
+&lt;li>درواقع Garbage collector میاد heap رو چک می‌کنه و همونطوری که میدونیم هربار GC درحال بررسی است به مدت چند میلی‌ثانیه کل سرویس ما فریز میشه. و میتونه مشکل‌هایی مثل Memory Leak و &amp;hellip; بوجود بیاد.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/details>
+&lt;details >&lt;summary>Race Condition یا شرط مسابقه چیست؟&lt;/summary>
+&lt;div class="markdown-inner">
+&lt;ul>
+&lt;li>در گولنگ زمانی که دو گوروتین تلاش می‌کنند روی یک متغیر مشترک بنویسند Race Condition یا شرط مسابقه ایجاد می‌شود که نتیجه آن یک خروجی غیر منتظره است.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/details>
+&lt;details >&lt;summary>چگونه از Race Conditions یا شرط مسابقه جلوگیری کنیم؟&lt;/summary>
+&lt;div class="markdown-inner">
+&lt;ul>
+&lt;li>در گولنگ با استفاده از پکیچ sync می‌توانیم دسترسی گوروتین‌ها را به یک متغییر مدیریت کنیم.&lt;/li>
+&lt;li>این مکانیسم شامل استفاده از روش‌های Lock and Unlock از پکیج sync است.&lt;/li>
+&lt;li>متد Lock نشان می‌دهد که گوروتینی که این متد را فراخوانی می‌کند، به تازگی قفل را دریافت کرده است و هیچ گوروتین دیگری نمی‌تواند از قفل استفاده کند تا زمانی که آزاد شود.&lt;/li>
+&lt;li>روش Unlock قفل را آزاد می‌کند تا دیگر گوروتین‌ها بتوانند از آن استفاده کنند.&lt;/li>
+&lt;li>هنگامی که یک گوروتین از قفل استفاده می‌کند و دیگری سعی می‌کند قفل را نیز بدست آورد، گوروتین مسدود می‌شود تا زمانی که گوروتین دیگر قفل را آزاد کند.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/details>
+&lt;details >&lt;summary>چه زمانی از panci یا os.Exit استفاده کنیم؟&lt;/summary>
+&lt;div class="markdown-inner">
+&lt;ul>
+&lt;li>زمانی از panic استفاده می‌کنیم که برنامه به نقطه غیر قابل بازیابی رسیده باشد و با استفاده از panic برنامه را متوقف می‌کنیم و متن خطا را به کاربر نشان می‌دهیم. تمام توابع defer شده بعد از پنیک اجرا می‌شوند.&lt;/li>
+&lt;li>برای مثال در یک برنامه در خواندن یک فایل با خطا مواجه شده‌ایم و به مقادیر فایل دسترسی نداریم در این شرایط با استفاده از panic می‌توانیم برنامه را متوقف کنیم و متن خطا را به کاربر نمایش دهیم.&lt;/li>
+&lt;li>اما os.Exit زمانی استفاده می‌شود که برنامه نیاز به اتمام فوری و برگشت به سیستم عامل دارد.&lt;/li>
+&lt;li>همچنین این تابع یک کد وضعیت برمیگرداند که برای سیستم عامل و برنامه‌های دیگر قابل استفاده است.&lt;/li>
+&lt;li>برای مثال زمانی که در یک برنامه با سروری ارتباط داریم و ارتباط قطع می‌شود ما قادر به ادامه دادن برنامه نیستیم و می‌توانیم از این تابع استفاده کنیم.&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/details></description></item><item><author>Javad Rajabzadeh</author><title>فصل اول: آشنایی با مفاهیم گو</title><link>https://book.gofarsi.ir/chapter-1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-1/</guid><description>&lt;p>در فصل اول به مفاهیم پایه زبان برنامه‌نویسی گو بطور عمیق می‌پردازیم. این فصل شامل چندین بخش هست:&lt;/p>
+&lt;ul>
+&lt;li>1.1&lt;a href="structure-of-go-code"> ساختار کد گو&lt;/a>&lt;/li>
+&lt;li>1.2&lt;a href="go-built-in-keywords-identifiers"> کلید واژه و شناسه‌ها&lt;/a>&lt;/li>
+&lt;li>1.3 &lt;a href="go-basic-types">تایپ های پایه&lt;/a>&lt;/li>
+&lt;li>1.4 &lt;a href="go-operators">عملگرها&lt;/a>&lt;/li>
+&lt;li>1.5 &lt;a href="go-variables-and-consts">متغیرها و constant&lt;/a>&lt;/li>
+&lt;li>1.6 &lt;a href="go-zero-values">مقادیر صفر تایپ ها (zero values)&lt;/a>&lt;/li>
+&lt;li>1.7 &lt;a href="go-function">تابع (function)&lt;/a>&lt;/li>
+&lt;li>1.8 &lt;a href="go-array">آرایه و slice&lt;/a>&lt;/li>
+&lt;li>1.9 &lt;a href="go-for">حلقه ها (for)&lt;/a>&lt;/li>
+&lt;li>1.10 &lt;a href="go-map">نقشه map&lt;/a>&lt;/li>
+&lt;li>1.11 &lt;a href="go-if-switch">شرط (if, switch)&lt;/a>&lt;/li>
+&lt;li>1.12 &lt;a href="go-package">اضافه کردن پکیج در کد (package)&lt;/a>&lt;/li>
+&lt;li>1.13 &lt;a href="go-defer-panic-recovery">defer, panic, recovery&lt;/a>&lt;/li>
+&lt;li>1.14 &lt;a href="go-builtins">لیست تایپ ها و توابع Builtin&lt;/a>&lt;/li>
+&lt;li>1.15&lt;a href="go-string-formatting">قالب بندی رشته ها&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><author>Javad Rajabzadeh</author><title>فصل دوم: مکانیزم‌های زبان</title><link>https://book.gofarsi.ir/chapter-2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-2/</guid><description>&lt;p>در این فصل به مکانیزیم‌های زبان گو می‌پردازیم و برخی از اصطلاحات زبان گو را با هم برسی می‌کنیم.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="pointer">در بخش 2.1 در خصوص &lt;span class="tooltip" data-tooltip="pointer" ontouchend="toggleTooltip(this)">اشاره‌گر&lt;/span>
+آموزش خواهیم داد.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="struct">در بخش 2.2 به مهم‌ترین تایپ در زبان گو، یعنی &lt;span class="tooltip" data-tooltip="struct" ontouchend="toggleTooltip(this)">ساختار&lt;/span>
+می‌پردازیم و آموزش می‌دهیم چطور با استفاده از ساختار دیتامدل‌های پروژه‌های خود را پیاده سازی کنید.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="method">در بخش 2.3 به بحث متدها می‌پردازیم و برسی می‌کنیم که &lt;code>چطور این نوع توابع را پیاده سازی کنیم&lt;/code>.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="interface">در بخش 2.4 در خصوص اینترفیس در زبان گو توضیح می‌دهیم. &lt;code>دقیقا چی هستند و چطور میشه ازشون استفاده کرد&lt;/code>.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="type-embedding">در بخش 2.5 به &lt;span class="tooltip" data-tooltip="embedding" ontouchend="toggleTooltip(this)">جاسازی&lt;/span>
+ساختار و اینترفیس می‌پردازیم.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="error-handling">در بخش 2.6 به مدیریت خطاها در زبان گو می‌پردازیم و برسی می‌کنیم که چه ویژگی‌هایی دارد.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="casting-vs-conversion">2.7 تفاوت castin با conversion را آموزش می‌دهیم.&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><author>Javad Rajabzadeh</author><title>فصل سوم: همزمانی (concurrency)</title><link>https://book.gofarsi.ir/chapter-3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-3/</guid><description>&lt;p>در این فصل به صورت عمیق به مباحث همزمانی در زبان گو پرداخته شده است که شامل عناوین زیر می‌باشد.&lt;/p>
 &lt;ul>
-&lt;li>۳.۱ آشنایی با مبحث همزمانی.&lt;/li>
-&lt;li>۳.۲ گوروتین چیست.&lt;/li>
-&lt;li>۳.۳ کالبدشکافی پکیج sync و تشریح &lt;span class="tooltip" data-tooltip="Types" ontouchend="toggleTooltip(this)">انواع&lt;/span>
-و توابع کاربردی آن برای مباحث همگام‌سازی همزمانی.&lt;/li>
-&lt;li>۳.۴ آشنایی با پکیج atomic و کاربردهای آن.&lt;/li>
-&lt;li>۳.۵ آشنایی با Data Race و روش‌های پیشگیری از آن.&lt;/li>
-&lt;li>۳.۶ کانال‌ها و روش‌ اشتراک‌گذاری داده از طریق آن.&lt;/li>
-&lt;li>۳.۷ آشنایی با کلید‌واژه select و بررسی کاربردهای متنوع آن.&lt;/li>
-&lt;li>۳.۸ پکیج context و اهمیت آن.&lt;/li>
-&lt;li>۳.۹ تکنیک‌های مورد استفاده در همزمانی.&lt;/li>
-&lt;li>۳.۱۰ الگوهای متداول همزمانی و کاربردهای آن.&lt;/li>
-&lt;/ul></description></item><item><author>Javad Rajabzadeh</author><title>فصل چهارم: مباحث پیشرفته</title><link>https://book.gofarsi.ir/chapter-4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-4/</guid><description>&lt;p>در این فصل به مباحث پیشرفته زبان گو میپردازیم&amp;hellip;&lt;/p></description></item><item><author>Javad Rajabzadeh</author><title>فصل پنجم: برنامه نویسی شبکه با گو</title><link>https://book.gofarsi.ir/chapter-5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-5/</guid><description>&lt;p>در این فصل به مباحث برنامه نویسی شبکه در زبان گو میپردازیم&amp;hellip;&lt;/p></description></item><item><author>Javad Rajabzadeh</author><title>فصل ششم: جنریک (Generics)</title><link>https://book.gofarsi.ir/chapter-6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-6/</guid><description>&lt;p>در این فصل به مباحث جنریک در زبان گو میپردازیم&amp;hellip;&lt;/p></description></item><item><author>Javad Rajabzadeh</author><title>فصل هفتم: تست نویسی</title><link>https://book.gofarsi.ir/chapter-7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-7/</guid><description>&lt;p>در این فصل به مباحث تست نویسی در زبان گو میپردازیم&amp;hellip;&lt;/p></description></item><item><author>Javad Rajabzadeh</author><title>فصل هشتم: پکیج های استاندارد</title><link>https://book.gofarsi.ir/chapter-8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-8/</guid><description>&lt;p>در این فصل به مباحث پکیج های استاندارد در زبان گو میپردازیم&amp;hellip;&lt;/p></description></item><item><author>Javad Rajabzadeh</author><title>فصل نهم: الگوهای طراحی</title><link>https://book.gofarsi.ir/chapter-9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-9/</guid><description>&lt;p>در این فصل به مباحث الگوهای طراحی در زبان گو میپردازیم و سعی می کنیم بطور کلی و با مثال های مناسب به شما هر الگو را آموزش دهیم و همچنین برخی از کاربردهای الگوها را نام ببریم.&lt;/p>
+&lt;li>&lt;a href="go-concurrency">۳.۱ آشنایی با مبحث همزمانی.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="goroutine">۳.۲ گوروتین چیست.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="go-sync-package">۳.۳ کالبدشکافی پکیج sync و تشریح &lt;span class="tooltip" data-tooltip="Types" ontouchend="toggleTooltip(this)">انواع&lt;/span>
+و توابع کاربردی آن برای مباحث همگام‌سازی همزمانی.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="go-atomic">۳.۴ آشنایی با پکیج atomic و کاربردهای آن.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="goroutine-data-race">۳.۵ آشنایی با Data Race و روش‌های پیشگیری از آن.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="go-channel">۳.۶ کانال‌ها و روش‌ اشتراک‌گذاری داده از طریق آن.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="go-select">۳.۷ آشنایی با کلید‌واژه select و بررسی کاربردهای متنوع آن.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="go-context">۳.۸ پکیج context و اهمیت آن.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="go-concurrency-teqniques">۳.۹ تکنیک‌های مورد استفاده در همزمانی.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="go-concurrency-patterns">۳.۱۰ الگوهای متداول همزمانی و کاربردهای آن.&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><author>Javad Rajabzadeh</author><title>فصل چهارم: مباحث پیشرفته</title><link>https://book.gofarsi.ir/chapter-4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-4/</guid><description>&lt;p>در این بخش به مباحث پیشرفته تری از زبان گو می پردازیم که شامل بخش های زیر می باشد.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="build-go-file">۴.۱ پروژه Build آموزش ‌.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="debugging-go-code">۴.۲ Debuggingآموزش کار با.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="go-mod">۴.۳ go mod آموزش کار با .&lt;/a>&lt;/li>
+&lt;li>&lt;a href="workspace">۴.۴ workspace آموزش کار با.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="vendor">۴.۵ Vendor آموزش کار با.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="command-line-go">۴.۶ command line آموزش نوشتن برنامه.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="work-with-file-in-go">آموزش کار با فایل ۴.۷.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="work-with-json-file-in-go">۴.۸ json آموزش کار با.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="work-with-toml-file-in-go">۴.۹ toml آموزش کار با.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="work-with-yaml-file-in-go">۴.۱۰ yaml آموزش کار با.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="work-with-csv-file-in-go">۴.۱۱ CSV آموزش کار با.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="work-with-ini-file-in-go">۴.۱۲ ini آموزش کار با.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="work-with-environment-variable">۴.۱۳ enviroment variable آموزش کار با.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="go-regular-expressions">۴.۱۴ regexp آموزش کار با.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="go-reflection">۴.۱۵ reflection آموزش.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="go-generator">۴.۱۶ generator آموزش.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="go-stringer">۴.۱۷ stringerآموزش.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="effective-go">تکنیک های کد نویسی زبان گو ۴.۱۸.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="go-commentry">اصول کامنت نویسی ۴.۱۹.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="go-code-rules">قوانین کد نویسی در زبان گو ۴.۲۰.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="go-garbage-collector">۴.۲۱ (garbage collector)زباله جمع کن.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="go-plugin">۴.۲۲ Plugin کتابخانه.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="oop">۴.۲۳ شی گرایی در زبان گو.&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><author>Javad Rajabzadeh</author><title>فصل پنجم: برنامه نویسی شبکه با گو</title><link>https://book.gofarsi.ir/chapter-5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-5/</guid><description>&lt;p>در این فصل به مباحث برنامه نویسی شبکه در زبان گو میپردازیم&amp;hellip;&lt;/p></description></item><item><author>Javad Rajabzadeh</author><title>فصل ششم: ژنریک ها (Generics)</title><link>https://book.gofarsi.ir/chapter-6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-6/</guid><description>&lt;p>در این بخش قصد داریم به بحث ژنریک ها بپردازیم که از نسخه &lt;a href="https://go.dev/blog/go1.18">go1.18&lt;/a> اضافه شد که تقریبا یکی از اساسی ترین تغییرات در سینتکس زبان گو بود و در قالب یک &lt;a href="https://go.googlesource.com/proposal/&amp;#43;/HEAD/design/43651-type-parameters.md">پروپوزال&lt;/a> ارائه شد و سپس از نسخه ۱.۱۸ منتشر شد و تا الان تغییرات و بهبودهای زیادی داشته است.&lt;/p>
+&lt;p>ژنریک به زبان برنامه‌نویسی امکانات مهمی اضافه می‌کند:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>پارامترهای نوع برای توابع و انواع داده&lt;/strong>: با ژنریک، می‌توانید توابع و انواع داده‌ای را با پارامترهای نوع مخصوص بسازید. به این ترتیب می‌توانید یک تابع یا یک نوع داده را برای کار با انواع مختلف داده تعریف کنید.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>تعریف انواع رابط به عنوان مجموعه‌ای از انواع&lt;/strong>: با ژنریک، می‌توانید انواع اینترفیس را به عنوان مجموعه‌هایی از انواع تعریف کنید، حتی انواعی که متدهای خاصی ندارند. این به شما امکان می‌دهد تا انواع داده‌ای را به عنوان پارامترها در تعریف اینترفیس‌ها استفاده کنید.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>استفاده از استنباط نوع (Type Inference)&lt;/strong>: ژنریک اجازه می‌دهد که در بسیاری از موارد، پارامترهای نوع را در فراخوانی توابع حذف کنید. به این ترتیب کد شما ساده‌تر و خواناتر می‌شود و نیازی به تعیین دقیق نوع در همه جا ندارید.&lt;/p>
+&lt;/li>
+&lt;/ol>
 &lt;blockquote class="book-hint info">
-سعی کنید وقتی از الگوهای طراحی استفاده کنید که واقعا احساس نیاز کنید, خیلی قابل اهمیته که در جای درست از الگوها استفاده کنید.
-&lt;/blockquote></description></item><item><author>Javad Rajabzadeh</author><title>فصل دهم: الگوریتم و ساختار داده</title><link>https://book.gofarsi.ir/chapter-10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-10/</guid><description>&lt;p>در این فصل به مباحث الگوریتم و ساختار داده در زبان گو میپردازیم&amp;hellip;&lt;/p></description></item><item><author>Javad Rajabzadeh</author><title>فصل یازدهم: معماری های نرم افزار</title><link>https://book.gofarsi.ir/chapter-11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-11/</guid><description>&lt;p>در این فصل به مباحث معماری های نرم افزار در زبان گو میپردازیم&amp;hellip;&lt;/p></description></item></channel></rss>
+&lt;p>&lt;strong>نکات کاربردی&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>زمانی از ژنریک ها استفاده کنید که کدهای شما فقط با تغییر تایپ در حال تکرار است آنجا شما می توانید از ژنریک ها برای کاهش کد خود کمک بگیرید.&lt;/li>
+&lt;li>از ژنریک ها می توانید برای کاهش Assertion اینترفیس ها استفاده کنید.&lt;/li>
+&lt;li>با اینکه ژنریک یک ویژگی خوب است اما استفاده زیاد باعث پیچیدگی و سربار حافظه خواهد شد.&lt;/li>
+&lt;/ol>
+&lt;/blockquote>
+&lt;h2 id="ژنریک-چیست">
+ژنریک چیست؟
+&lt;a class="anchor" href="#%da%98%d9%86%d8%b1%db%8c%da%a9-%da%86%db%8c%d8%b3%d8%aa">#&lt;/a>
+&lt;/h2>
+&lt;p>ژنریک یک ویژگی مهم در Go است که به شما این امکان را می‌دهد تا کدهای کلی و قابل استفاده مجدد بنویسید بدون اینکه به تایپ‌های خاصی محدود شوید. به عبارت ساده‌تر، با ژنریک می‌توانید توابع و ساختارهای داده را بنویسید که با انواع مختلف داده‌ها کار کنند.&lt;/p>
+&lt;p>به عنوان مثال، فرض کنید یک تابع بخواهید بنویسید که دو عدد را با هم جمع کند. بدون استفاده از ژنریک، شما باید تابع‌های مجزایی برای جمع دو عدد از نوع مختلف (مثلاً عدد صحیح و عدد اعشاری) بنویسید. اما با ژنریک، می‌توانید یک تابع جمع کننده عمومی بنویسید که با هر نوع داده‌ای کار کند.&lt;/p>
+&lt;p>در اصطلاحات Go، از انواع نمادگذاری ژنریک می‌کنیم. این انواع می‌توانند به صورت متغیر باشند و از آن‌ها در تابع‌ها و ساختارهای داده استفاده کنید تا کدی ایجاد کنید که قابل استفاده با انواع مختلف داده‌ها باشد.&lt;/p>
+&lt;p>از مزیت‌های ژنریک در Go می‌توان به کاهش تکرار کد، افزایش قابلیت خوانایی کد و افزایش انعطاف‌پذیری برنامه اشاره کرد. با استفاده از این قابلیت، می‌توانید کدهای بهینه‌تری بنویسید و طراحی بهتری داشته باشید.&lt;/p>
+&lt;p>بنابراین، ژنریک در Go به شما این امکان را می‌دهد که کدهای کلی‌تر و کاربردی‌تری بنویسید که با انواع مختلف داده‌ها سازگار باشند و به عنوان یک توسعه‌دهنده جوان، این ابزار قدرتمند را در توسعه نرم‌افزار‌های خود بهره‌بری کنید.&lt;/p></description></item><item><author>Javad Rajabzadeh</author><title>فصل هفتم: تست نویسی</title><link>https://book.gofarsi.ir/chapter-7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-7/</guid><description>&lt;p>در این فصل به مباحث تست نویسی در زبان گو میپردازیم&amp;hellip;&lt;/p></description></item><item><author>Javad Rajabzadeh</author><title>فصل هشتم: پکیج های استاندارد</title><link>https://book.gofarsi.ir/chapter-8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-8/</guid><description>&lt;p>در این فصل به مباحث پکیج های استاندارد در زبان گو میپردازیم&amp;hellip;&lt;/p></description></item><item><author>Javad Rajabzadeh</author><title>فصل نهم: الگوهای طراحی</title><link>https://book.gofarsi.ir/chapter-9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-9/</guid><description>&lt;p>در این فصل، به مباحث الگوهای طراحی در زبان گو می‌پردازیم و سعی می‌کنیم به طور کلی و با مثال‌های مناسب، هر الگو را به شما آموزش دهیم و همچنین برخی از کاربردهای الگوها را نام ببریم.&lt;/p>
+&lt;h2 id="الگوی-طراحی-چیست">
+الگوی طراحی چیست؟
+&lt;a class="anchor" href="#%d8%a7%d9%84%da%af%d9%88%db%8c-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%da%86%db%8c%d8%b3%d8%aa">#&lt;/a>
+&lt;/h2>
+&lt;p>&lt;span class="tooltip" data-tooltip="Design patterns" ontouchend="toggleTooltip(this)">الگوهای طراحی&lt;/span>
+، به عنوان راه‌حل‌های معمول برای مسائلی که در طراحی نرم‌افزار به طور متداول رخ می‌دهند، استفاده می‌شوند. آنها دستورالعمل‌هایی پیش‌فرض هستند که می‌توانید برای حل یک مسئله تکراری در کد خود استفاده کنید.&lt;/p>
+&lt;h2 id="چرا-باید-الگوهای-طراحی-را-یاد-بگیریم">
+چرا باید الگوهای طراحی را یاد بگیریم؟
+&lt;a class="anchor" href="#%da%86%d8%b1%d8%a7-%d8%a8%d8%a7%db%8c%d8%af-%d8%a7%d9%84%da%af%d9%88%d9%87%d8%a7%db%8c-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b1%d8%a7-%db%8c%d8%a7%d8%af-%d8%a8%da%af%db%8c%d8%b1%db%8c%d9%85">#&lt;/a>
+&lt;/h2>
+&lt;p>الگوهای طراحی، به شما کدهای برنامه برای حل یک مسئله ارائه نمی‌دهند. بلکه، آنها یک مفهوم کلی را برای حل یک مسئله در اختیار شما قرار می‌دهند و بر عهده شماست که این مفهوم را چگونه در برنامه خود پیاده‌سازی کنید.&lt;/p>
+&lt;p>الگوهای طراحی، یک زبان مشترک را تعریف می‌کنند تا شما بتوانید با سایر توسعه‌دهندگان به طور موثرتری ارتباط برقرار کنید. به عنوان مثال، می‌توانید به هم‌تیمی خود بگویید: &amp;ldquo;می‌توانی این مسئله را با استفاده از الگوی &lt;span class="tooltip" data-tooltip="Singleton" ontouchend="toggleTooltip(this)">سینگلتون&lt;/span>
+حل کنی.&amp;rdquo; و او همه ایده‌های پشت این الگو را درک خواهد کرد، بدون اینکه نیاز به توضیح اضافی داشته باشید.&lt;/p>
+&lt;blockquote class="book-hint info">
+بسیار مهم است، از الگوهای طراحی زمانی استفاده کنید که واقعاً نیاز دارید. این امر دقت و درک دقیق از مسئله و نیازهای طراحی شما را می‌طلبد. این موضوع کمک می‌کند تا شما کد &lt;span class="tooltip" data-tooltip="Maintainability" ontouchend="toggleTooltip(this)">قابل نگهداری&lt;/span>
+، &lt;span class="tooltip" data-tooltip="Scalable" ontouchend="toggleTooltip(this)">قابل توسعه&lt;/span>
+و &lt;span class="tooltip" data-tooltip="Readable" ontouchend="toggleTooltip(this)">خوانا&lt;/span>
+توسعه دهید و همچنین از تجربه و دانش جمعی الگوها بهره‌برداری کنید. در نتیجه، درست استفاده کردن از الگوهای طراحی می‌تواند بهبود قابل توجهی در کیفیت و عملکرد برنامه شما ایجاد کند.
+&lt;/blockquote>
+&lt;h2 id="طبقهبندی-الگوهای-طراحی">
+طبقه‌بندی الگوهای طراحی
+&lt;a class="anchor" href="#%d8%b7%d8%a8%d9%82%d9%87%d8%a8%d9%86%d8%af%db%8c-%d8%a7%d9%84%da%af%d9%88%d9%87%d8%a7%db%8c-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c">#&lt;/a>
+&lt;/h2>
+&lt;p>الگوهای طراحی با توجه به پیچیدگی، سطح جزئیات و مقیاس کاربرد در برنامه، متفاوت هستند.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>الگوهای طراحی &lt;span class="tooltip" data-tooltip="Creational" ontouchend="toggleTooltip(this)">سازنده&lt;/span>
+&lt;/strong> مکانیزم‌های ایجاد شیء را ارائه می‌دهند که &lt;span class="tooltip" data-tooltip="Flexibility" ontouchend="toggleTooltip(this)">انعطاف‌پذیری&lt;/span>
+و &lt;span class="tooltip" data-tooltip="Reusability" ontouchend="toggleTooltip(this)">استفاده مجدد&lt;/span>
+از کد موجود را افزایش می‌دهند.&lt;/li>
+&lt;li>&lt;strong>الگوهای طراحی &lt;span class="tooltip" data-tooltip="Structural" ontouchend="toggleTooltip(this)">ساختاری&lt;/span>
+&lt;/strong> چگونگی ترکیب اشیاء و کلاس‌ها را به ساختارهای بزرگتر توضیح می‌دهد، در حالی که این ساختارها انعطاف‌پذیری و کارآمدی خود را حفظ می‌کنند.&lt;/li>
+&lt;li>&lt;strong>الگوهای طراحی &lt;span class="tooltip" data-tooltip="Behavioral" ontouchend="toggleTooltip(this)">رفتاری&lt;/span>
+&lt;/strong> مراقبت از ارتباطات مؤثر و تخصیص مسئولیت‌ها بین اشیاء را بر عهده دارند.&lt;/li>
+&lt;/ul></description></item><item><author>Javad Rajabzadeh</author><title>فصل دهم: الگوریتم و ساختار داده</title><link>https://book.gofarsi.ir/chapter-10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-10/</guid><description>&lt;p>در این فصل به مباحث الگوریتم و ساختار داده در زبان گو میپردازیم&amp;hellip;&lt;/p></description></item><item><author>Javad Rajabzadeh</author><title>فصل یازدهم: معماری های نرم افزار</title><link>https://book.gofarsi.ir/chapter-11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>ja7ad@live.com (Javad Rajabzadeh)</author><guid>https://book.gofarsi.ir/chapter-11/</guid><description>&lt;p>در این فصل به مباحث معماری های نرم افزار در زبان گو میپردازیم&amp;hellip;&lt;/p></description></item></channel></rss>
